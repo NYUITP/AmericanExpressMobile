@@ -10,3 +10,4 @@ Spring2014 AMEX InfoTechProjet
 
 [ > Customer Mobile Client](https://github.com/alexchonglian/AmexCustomerMobileClient)
 
+[ > Cardless Payment iOS7](https://github.com/alexchonglian/AmexCardlessiOS7)
